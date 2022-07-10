@@ -7,7 +7,7 @@ Our goal: provide creators of open source software a way to be compensated for t
 
 A large part of OSS remains underfunded, with no clear way to provide incentives for contributors..
 
-** This demo utilizes Promise Pay to provide a way for programmatic payments, donations, and incentives to be set up within the open source community.** Promise Pay uses a unique web2 and web3 architecture which allows for feeless, programmatic transactions.
+**This demo utilizes Promise Pay to provide a way for programmatic payments, donations, and incentives to be set up within the open source community.** Promise Pay uses a unique web2 and web3 architecture which allows for feeless, programmatic transactions.
 
 We unlock funding at the repository layer, and provide a mechanism for splitting payments across multiple team contributors automaticlaly.
 

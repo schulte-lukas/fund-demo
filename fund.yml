@@ -1,20 +1,7 @@
 treasury:
-    name: SOMECOOLPROJECT
-    rooturl: https://github.com/promise-labs/SOMECOOLPROJECT
-    promiseUsername: <SOMECOOLPROJECT - PromiseID>
+    rooturl:  https://github.com/schulte-lukas/fund-demo
 allocations:
-    - name: lukas
-      githubUsername: lukas_schulte
-      promiseUsername: <Lukas' PromiseId>
-      percentage: 40.0
-    - name: elias 
-      githubUsername: elias_git
-      promiseUsername: <elias' PromiseId>
-      percentage: 40.0
-    - name: Repository Treasury 
-      promiseUsername: <Treasury PromiseId>
-      percentage: 10.0
-    - name: Some UI Library 
-      rooturl: <Repository URL>
-      promiseUsername: <SOMEOTHERCOOLPROJECT - PromiseID>
-      percentage: 10.0
+    - promiseUsername: lukas
+      percentage: 20.0
+    - promiseUsername: Wolfram
+      percentage: 80.0
