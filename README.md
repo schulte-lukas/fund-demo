@@ -28,19 +28,12 @@ The fund.yml file has the following structure
 
 ```
 treasury:
-    name: Github Repository Name
-    did: The decentralized ID of the repository 
+    rooturl:  https://github.com/schulte-lukas/fund-demo
 allocations:
-    - name: lukas
-      did: <Lukas' DID>
-      percentage: 40.0
-    - name: elias 
-      did: <Elias' DID>
-      percentage: 40.0
-    - name: Treasury 
-      did: <Treasury' DID>
+    - promiseUsername: lukas
       percentage: 20.0
-    
+    - promiseUsername: Wolfram
+      percentage: 80.0
 ```
 ## Limitations
 - The minimum fundable amount is $0.01
