@@ -1,7 +1,7 @@
 treasury:
     rootUrl:  https://github.com/schulte-lukas/fund-demo
 allocations:
-    - promiseUsername: lukas
+    - promiseUsername: elias
       percentage: 20.0
-    - promiseUsername: Wolfram
+    - promiseUsername: michael
       percentage: 80.0
