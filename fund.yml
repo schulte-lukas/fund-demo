@@ -4,5 +4,4 @@ allocations:
     - promiseUsername: mlevin
       percentage: 20.0
     - promiseUsername: lukas
-    
       percentage: 80.0
